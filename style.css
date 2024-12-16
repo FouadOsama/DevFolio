@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  z-index: 1;
+  z-index: 2;
   background-color: rgba(0, 0, 0, 0.9);
 }
 
@@ -80,7 +80,7 @@ h1.name::after {
 }
 
 .header {
-  background-image: url(images/hero-bg.jpg);
+  background-image: url(Images/hero-bg.jpg);
   height: 100vh;
   background-size: cover;
   background-position: center center;
@@ -137,7 +137,7 @@ p.par-about-me {
 .back-ground2 {
   height: 80vh;
   width: 100%;
-  background-image: url(images/counters-bg.jpg);
+  background-image: url(Images/counters-bg.jpg);
   margin-top: 60px;
   margin-bottom: 100px;
   background-attachment: fixed;
@@ -225,7 +225,7 @@ span.web-design {
 .back-ground3 {
   height: 90vh;
   width: 100%;
-  background-image: url(images/overlay-bg.jpg);
+  background-image: url(Images/overlay-bg.jpg);
   margin-top: 150px;
   margin-bottom: 150px;
   background-size: cover;
@@ -262,10 +262,10 @@ span.web-design {
 } */
 
 .custom-section {
-  background-image: url(images/overlay-bg.jpg);
+  background-image: url(Images/overlay-bg.jpg);
   height: 90vh;
   width: 100%;
-  background-image: url(images/overlay-bg.jpg);
+  background-image: url(Images/overlay-bg.jpg);
   margin-top: 200px;
   margin-bottom: 60px;
   background-size: cover;
